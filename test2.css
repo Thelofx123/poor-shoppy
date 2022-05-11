@@ -1,0 +1,233 @@
+
+   .active {
+    background-color: #6759ff;
+    color: #ffffff;
+  }
+  .hide {
+    display: none;
+  }
+   .logo{
+    background-image: url("https://shoppy.mn/7aa23ad0466ab6ce47165f36182ff2b2.svg");
+    width: 150px;
+    height: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.btn-search{
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiIgdmlld0JveD0iMCAwIDI2IDI2Ij4gICAgPGRlZnM+ICAgICAgICA8c3R5bGU+ICAgICAgICAgICAgLmNscy0xe29wYWNpdHk6MH0uY2xzLTJ7ZmlsbDojZmZmfS5jbHMtM3tmaWxsOiM0ZjNmNjh9ICAgICAgICA8L3N0eWxlPiAgICA8L2RlZnM+ICAgIDxnIGlkPSJzZWFyY2gtaG92ZXIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03OTkgLTQzNCkiPiAgICAgICAgPGcgaWQ9Ikdyb3VwXzQzNzkiIGNsYXNzPSJjbHMtMSIgZGF0YS1uYW1lPSJHcm91cCA0Mzc5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3OTkgNDM0KSI+ICAgICAgICAgICAgPHBhdGggaWQ9IlJlY3RhbmdsZV8yMzY2IiBkPSJNMCAwaDI2djI2SDB6IiBjbGFzcz0iY2xzLTIiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDIzNjYiLz4gICAgICAgIDwvZz4gICAgICAgIDxnIGlkPSJHcm91cF80MDE5IiBkYXRhLW5hbWU9Ikdyb3VwIDQwMTkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDc5OC4zNDggNDM0LjM0MykiPiAgICAgICAgICAgIDxnIGlkPSJFbGxpcHNlXzQ1MyIgZGF0YS1uYW1lPSJFbGxpcHNlIDQ1MyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNC42NTIgNS4wNjgpIj4gICAgICAgICAgICAgICAgPHBhdGggaWQ9IlBhdGhfNDQ1MiIgZD0iTTEyLjAzMiA2LjEwN2E2LjM0IDYuMzQgMCAxIDEtNi4zNDEgNi4zNCA2LjM0NyA2LjM0NyAwIDAgMSA2LjM0MS02LjM0bTAtMS4wMzlhNy4zOCA3LjM4IDAgMSAwIDcuMzc5IDcuMzc5IDcuMzggNy4zOCAwIDAgMC03LjM3OS03LjM3OXoiIGNsYXNzPSJjbHMtMyIgZGF0YS1uYW1lPSJQYXRoIDQ0NTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00LjY1MiAtNS4wNjgpIi8+ICAgICAgICAgICAgPC9nPiAgICAgICAgICAgIDxnIGlkPSJQYXRoXzQwMTgiIGRhdGEtbmFtZT0iUGF0aCA0MDE4IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3LjU5MSA4LjAwOCkiPiAgICAgICAgICAgICAgICA8cGF0aCBpZD0iUGF0aF80NDUzIiBkPSJNOCAxMi4yYS41Mi41MiAwIDAgMS0uNTItLjUyIDMuNzk0IDMuNzk0IDAgMCAxIDMuNzktMy43OC41Mi41MiAwIDAgMSAwIDEuMDM5IDIuNzU0IDIuNzU0IDAgMCAwLTIuNzUxIDIuNzQ5QS41MTkuNTE5IDAgMCAxIDggMTIuMnoiIGNsYXNzPSJjbHMtMyIgZGF0YS1uYW1lPSJQYXRoIDQ0NTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03LjQ3OSAtNy44OTYpIi8+ICAgICAgICAgICAgPC9nPiAgICAgICAgICAgIDxnIGlkPSJMaW5lXzY4IiBkYXRhLW5hbWU9IkxpbmUgNjgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3LjQ0IDE2LjE0MikiPiAgICAgICAgICAgICAgICA8cGF0aCBpZD0iUGF0aF80NDU0IiBkPSJNMjEuNjc5IDIwLjE2OWEuNTEyLjUxMiAwIDAgMS0uMzI2LS4xMTVsLTQuMjA2LTMuNDA4YS41Mi41MiAwIDEgMSAuNjU0LS44MDhsNC4yIDMuNDA3YS41Mi41MiAwIDAgMS0uMzI2LjkyNHoiIGNsYXNzPSJjbHMtMyIgZGF0YS1uYW1lPSJQYXRoIDQ0NTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNi45NTQgLTE1LjcyMSkiLz4gICAgICAgICAgICA8L2c+ICAgICAgICA8L2c+ICAgIDwvZz48L3N2Zz4=");
+    width: 50px;
+    height: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  
+
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.section-header {
+    font-family: "Metal Mania";
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+
+
+
+.btn {
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em .67em;
+    cursor: pointer;
+
+}
+.btn-play {
+    display: block;
+    margin: 0 auto;
+    color: #2D9CDB;
+    font-size: 4em;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    text-align: center;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #000000;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #2D9CDB;
+}
+.shop-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    margin: 30px;
+    border: 0.1px solid grey;
+    
+}
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-image {
+    width: 100%;
+    height: 250px;
+}
+
+.shop-item-details {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: #333;
+}
+
+.shop-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cart-header {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #333;
+}
+
+.cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cart-row {
+    display: flex;
+}
+
+.cart-item {
+    width: 45%;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.cart-quantity {
+    width: 35%;
+}
+
+.cart-item-title {
+    color: #333;
+    margin-left: .5em;
+    font-size: 1.2em;
+}
+
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.btn-danger {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #CC4C4C;
+}
+
+.cart-quantity-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 25px;
+}
+
+.cart-row:last-child {
+    border-bottom: 1px solid black;
+}
+
+.cart-row:last-child .cart-column {
+    border: none;
+}
+
+.cart-total {
+    text-align: end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.cart-total-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    margin-right: 20px;
+}
+
+.cart-total-price {
+    color: #333;
+    font-size: 1.1em;
+}
+
+.btn-purchase {
+    display: block;
+    margin: 40px auto 80px auto;
+    font-size: 1.75em;
+}
+
+#hidden{
+    position: absolute;
+    top: 120px;
+    right: 0;
+    background-color: rgb(236, 222, 222);
+    display: none;
+}
+.tog
+{
+display: block;
+}
+
